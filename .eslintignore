@@ -1,0 +1,3 @@
+# ignore files due to being dev files or not needed
+reset.d.ts
+setupTests.ts
